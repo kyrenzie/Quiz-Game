@@ -1,0 +1,60 @@
+Which function draws a standard sprite?
+draw_standard_sprite
+standard_sprite
+draw_sprite
+blit_sprite
+c
+What is a frame in the context of sprite animation?
+A single image in the animation sequence
+The bounding rectangle of a sprite
+The source image for the animation sequence
+A buffer used to store temporary copies of the sprite
+a
+What is the purpose of the sprite handler?
+To provide a consistent way to animate and manipulate many sprites on the screen
+To prevent sprites from moving beyond the edges of the scren
+To provide a reusable sprite drawing function
+To keep track of the sprite position
+a
+What is a struct element?
+A property of a struct
+A sprite behaviour
+The underlying Allegro sprite handler
+A variable in a structure
+d
+Which term describes a single frame of an animation sequence stored in an image file?
+Snapshot
+Tile
+Piece
+Take
+b
+Which Allegro function is used frequently to erase a sprite?
+rectfill
+erase_sprite
+destroy_sprite
+blit
+a
+Which term describes a reusable activity for a sprite that is important in a game?
+Collision
+Animation
+Bounding
+Behaviour
+d
+What is the name of the new function that draws an animation frame to the screen?
+drawanim
+drawframe
+animate
+nextimage
+b
+Which term best describes an image filled with rows and columns of smallsprite images?
+scrolling
+sprite bitmap
+sprite sheet
+sprite tiles
+c
+How does a sprite struct improve the source sode of a game?
+Reduces global variable use
+Eliminates code comments
+Helps align code blocks
+Consolidates code into functions
+a

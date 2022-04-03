@@ -1,0 +1,60 @@
+In which game genre does the vertical shooter belong?
+Shoot-em-up
+Platform
+Fighting
+Real-time strategy
+a
+What is the name of the support library used as the vertical scroller engine?
+ScrollerEngine
+VerticalScroller
+MappyAL
+AllegroScroller
+c
+What are the virtual pixel dimensions of the level in Warbirds Pacifica?
+640 X 480
+48,000 X 640
+20 X 1,500
+640 X 48,000
+d
+What is the name of the level-editing program used to create the first level of Warbirds Pacifica?
+Happy
+Mappy
+Snappy
+Frappy
+b
+How many tiles comprise a level in Warbirds Pacifica?
+30,000
+1,500
+48,000
+32,768
+a
+Which of the following games is a vertical scrolling shooter
+R-Type
+Mars Matrix
+Contra
+Castlevania
+b
+Who created the artwork featured in chapter 15?
+Ray Kurzweil
+Clifford Stoll
+Ari Feldman
+Nicholas Negroponte
+c
+Which MappyAL function loads a map file?
+LoadMap
+MapLoad
+LoadMappy
+ReadLevel
+b
+Which MappyAL function removes a map from memory?
+destroy_map
+free_mappy
+DeleteMap
+MapFreeMem
+d
+Which classic arcade game inspired Warbirds PAcifica?
+Pac-Man
+Mars Matrix
+1942
+Street Fighter II
+c

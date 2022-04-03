@@ -1,0 +1,60 @@
+Which function is used to initialise the keyboard handler?
+initialize_keyboard
+install_keyboard
+init_keyboard
+install_keyboard_handler
+b
+What does ANSI stand for?
+American Negotiable Situation Imperative
+American Nutritional Studies Institute
+American National Standards Institute
+American National Scuba Institute
+c
+What is the name of the array containint keyboard scan codes?
+key
+keyboard
+scancodes
+keys
+a
+Where is the real stargate located?
+Salt Lake City, Utah
+San Antonio, Texas
+Colorado Springs, Colorado
+Cairo, Egypt
+c
+Which function provides buffered keyboard input?
+scankey
+getkey
+readkey
+buffered_input
+c
+Which function is used to initialise the mouse handler?
+install_mouse
+instantiate_mouse
+initialize_mouse
+ingratiate_mouse
+a
+Which values or functions are used to read the mouse position?
+mouse_x and mouse_y
+get_mouse_x and get_mouse_y
+mousex and mousey
+mouse_position_x and mouse_position_y
+a
+Which function is used to read the mouse x and mouse y mickeys for relative motion?
+mickey_mouse
+read_mouse_mickeys
+mouse_mickeys
+get_mouse_mickeys
+d
+What is the name for the main JOYSTICK_INFO array?
+joysticks
+joy
+sticks
+joystick
+b
+Which struct contains joystick button data?
+JOYSTICK_BUTTONS
+JOYSTICK_BUTTON
+JOYSTICK_BUTTON_INFO
+JOYSTICK_BUTTON_DATA
+c
