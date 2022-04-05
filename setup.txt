@@ -1,0 +1,24 @@
+Windows System:
+
+Microsoft C++ Compiler (MSVC) Required
+
+Visual Studio 2017 Recommended (May be able to convert to other versions)
+
+Allegro 4.4.2 MSVC 10.0 Required
+
+
+To build:
+
+1) Open the project in VS 2017.
+
+2) Open project properties from the menu bar. Project > Assignment_1 Properties
+ 
+3) Under VC++ Directories target the include directories to the allegro include folder
+
+4) Do the same as step 3 for the library directories and the allegro lib folder
+
+5) under Linker > Input add the location of the allegro file allegro-4.4.2-monolith-md-debug.lib which will be in the allegro lib folder
+
+6) The project should now build properly
+
+To run the executable by itself all 23 chapter question text files must be in the same folder as well as the midi file.
