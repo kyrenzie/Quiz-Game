@@ -40,12 +40,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\k_ren\Desktop\assignment1\part2\allegro-4.4.2-msvc-10.0\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\k_ren\Desktop\assignment1\part2\allegro-4.4.2-msvc-10.0\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\k_ren\Documents\GameDevCode\MSVS\Assignment_1\part2\allegro-4.4.2-msvc-10.0\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\k_ren\Documents\GameDevCode\MSVS\Assignment_1\part2\allegro-4.4.2-msvc-10.0\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <IncludePath>C:\Users\k_ren\Desktop\assignment1\part2\allegro-4.4.2-msvc-10.0\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\k_ren\Desktop\assignment1\part2\allegro-4.4.2-msvc-10.0\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\k_ren\Documents\GameDevCode\MSVS\Assignment_1\part2\allegro-4.4.2-msvc-10.0\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\k_ren\Documents\GameDevCode\MSVS\Assignment_1\part2\allegro-4.4.2-msvc-10.0\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
